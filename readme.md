@@ -1,5 +1,5 @@
 :small_blue_diamond: Olá!!  =)
-Fico feliz por ter vindo. :sweat_smile:	
+Fico feliz por ter vindo.
 
 ![3af938ea9ac618842e0960c868b8e4af32ef401e_00](https://user-images.githubusercontent.com/93616970/144729071-59520558-7b8b-4f89-a0d4-924bdba828c2.gif)
 
