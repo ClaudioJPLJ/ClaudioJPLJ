@@ -7,19 +7,24 @@ Fico feliz por ter vindo.
 
 :small_blue_diamond:	Logo logo estarei postando projetos e aprendizados que irei guardar no slot da minha mente.
 
-:small_blue_diamond:	Atualmente estou indo para o primeiro contato com front-end então... Carregando... :gear: :gear:	
+:small_blue_diamond:	Atualmente estou indo para o primeiro contato com front-end então... Carregando... :gear: :gear:
 
-:black_medium_square:		Lógica da programação :heavy_check_mark:	
+
+
+:exploding_head:	 Estudos: 
+
+
+:black_medium_square:		Lógica da programação :heavy_check_mark:
 
 :black_medium_square:			Algoritmos :heavy_check_mark:	
 
-:black_medium_square:		Pseudocódigos :heavy_check_mark:	
+:black_medium_square:		Pseudocódigos :heavy_check_mark:
 
-:white_medium_square:			HTML :x:	
+:white_medium_square:	HTML :x:	
 
-:white_medium_square:		CSS :x:	                                                               
+:white_medium_square:	CSS :x:	
 
-:white_medium_square:		JavaScript :x:
+:white_medium_square:	JavaScript :x:
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/93616970/144729874-bba30d6a-dfa2-4da4-b2a7-2da384b93e9d.gif)
 
