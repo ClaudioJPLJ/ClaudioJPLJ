@@ -27,5 +27,5 @@ Fico feliz por ter vindo.
 
 :small_red_triangle:	Posso falhar, mas não vou desistir! :recycle:
 
-:small_red_triangle_down:	 Pois cada dia que passa, mais estou próximo de me tornar o desenvolvedor que sempre busquei ser...🏹
+:small_red_triangle_down:	 Pois cada dia que passa, mais estou próximo de me tornar o desenvolvedor que busco ser...🏹
 
