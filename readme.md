@@ -1,7 +1,6 @@
 :small_blue_diamond: Olá!!  =)
 Fico feliz por ter vindo.
 
-![3af938ea9ac618842e0960c868b8e4af32ef401e_00](https://user-images.githubusercontent.com/93616970/144729071-59520558-7b8b-4f89-a0d4-924bdba828c2.gif)
 
 :small_blue_diamond:	Estou dando meus primeiros passos nesse mundo maravilhoso da programação... :monocle_face: :desktop_computer:
 
@@ -20,11 +19,13 @@ Fico feliz por ter vindo.
 
 :black_medium_square:		Pseudocódigos :heavy_check_mark:
 
-:white_medium_square:	HTML :x:	
+:white_medium_square:	HTML :heavy_check_mark:	
 
-:white_medium_square:	CSS :x:	
+:white_medium_square:	CSS :heavy_check_mark:
 
-:white_medium_square:	JavaScript :x:
+:white_medium_square:	JavaScript :heavy_check_mark:
+
+Hora de aprofundar os conhecimentos...Voltarei em breve
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/93616970/144729874-bba30d6a-dfa2-4da4-b2a7-2da384b93e9d.gif)
 
